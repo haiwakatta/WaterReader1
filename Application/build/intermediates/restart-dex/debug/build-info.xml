@@ -5,39 +5,33 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="851230678656663"
+    timestamp="852512037494844"
     token="7206353558662024805"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="442" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="205" />
     <task
         name="verifier"
-        duration="0" />
+        duration="27" />
+
+    <artifact
+        location="/Users/haoqwu/Desktop/WaterReader/Application/build/outputs/apk/Application-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="851010107866609"
+        timestamp="852512037494844"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/haoqwu/Desktop/WaterReader/Application/build/outputs/apk/Application-debug.apk"
             type="MAIN" />
     </build>
-    <build
-        timestamp="851195516811662"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/haoqwu/Desktop/WaterReader/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="851230678656663"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

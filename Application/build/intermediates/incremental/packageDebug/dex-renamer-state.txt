@@ -1,4 +1,4 @@
-#Thu May 25 14:33:52 BST 2017
+#Thu May 25 14:58:51 BST 2017
 base.0=/Users/haoqwu/Desktop/WaterReader/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_be4b01b040ce209f5dade1172f1e0e4a8b2704e6
 renamed.1=classes.dex
 renamed.0=classes2.dex

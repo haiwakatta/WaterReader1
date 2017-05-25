@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu May 25 14:33:22 BST 2017
+#Thu May 25 14:58:20 BST 2017
 14.set=ANDROID_RESOURCE
 180.file=/Users/haoqwu/Desktop/WaterReader/Application/build/intermediates/res/resources-debug.ap_/res/drawable/abc_ic_search_api_material.xml
 118.set=ANDROID_RESOURCE
