@@ -25,6 +25,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
 import android.content.ServiceConnection;
+import android.graphics.drawable.AnimationDrawable;
 import android.os.Bundle;
 import android.os.IBinder;
 import android.util.Log;
@@ -32,6 +33,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.ExpandableListView;
+import android.widget.ImageView;
 import android.widget.SimpleExpandableListAdapter;
 import android.widget.TextView;
 
@@ -64,6 +66,8 @@ public class DeviceControlActivity extends Activity {
 
     private final String LIST_NAME = "NAME";
     private final String LIST_UUID = "UUID";
+
+    private boolean plantStatus = true; //true if it's ok, false if needs water
 
     // Code to manage Service lifecycle.
     private final ServiceConnection mServiceConnection = new ServiceConnection() {
@@ -152,6 +156,8 @@ public class DeviceControlActivity extends Activity {
         mDataField.setText(R.string.no_data);
     }
 
+    AnimationDrawable plantAnimation;
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -168,7 +174,18 @@ public class DeviceControlActivity extends Activity {
         mGattServicesList.setOnChildClickListener(servicesListClickListner);
         mConnectionState = (TextView) findViewById(R.id.connection_state);
         */
-        mDataField = (TextView) findViewById(R.id.data_value);
+        //mDataField = (TextView) findViewById(R.id.data_value);
+
+        ImageView imageView = (ImageView) findViewById(R.id.imageView);
+
+        imageView.setBackgroundResource(R.drawable.animation_reverse);
+        plantAnimation = (AnimationDrawable) imageView.getBackground();
+
+        imageView.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                mBluetoothLeService.readCustomCharacteristic();
+            }
+        });
 
         getActionBar().setTitle(mDeviceName);
         getActionBar().setDisplayHomeAsUpEnabled(true);
@@ -183,6 +200,7 @@ public class DeviceControlActivity extends Activity {
         if (mBluetoothLeService != null) {
             final boolean result = mBluetoothLeService.connect(mDeviceAddress);
             Log.d(TAG, "Connect request result=" + result);
+            mBluetoothLeService.readCustomCharacteristic();
         }
     }
 
@@ -239,7 +257,22 @@ public class DeviceControlActivity extends Activity {
 
     private void displayData(String data) {
         if (data != null) {
-            mDataField.setText(data);
+            //mDataField.setText(data);
+            int intValue = Integer.parseInt(data, 16);
+
+            ImageView imageView = (ImageView) findViewById(R.id.imageView);
+            plantAnimation = (AnimationDrawable) imageView.getBackground();
+
+            if(intValue < 500 && plantStatus) {
+                plantAnimation.start();
+                imageView.setBackgroundResource(R.drawable.animation);
+                plantStatus = !plantStatus;
+            }
+            if(intValue >= 500 && !plantStatus){
+                plantAnimation.start();
+                imageView.setBackgroundResource(R.drawable.animation_reverse);
+                plantStatus = !plantStatus;
+            }
         }
     }
 

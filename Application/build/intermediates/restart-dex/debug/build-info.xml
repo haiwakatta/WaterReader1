@@ -1,37 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
-    api-level="25"
-    density="560dpi"
-    format="8"
-    plugin-version="2.2.3"
-    timestamp="852512037494844"
-    token="7206353558662024805"
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    build-mode="FULL"
+    density="xhdpi"
+    format="10"
+    plugin-version="2.3.1"
+    timestamp="1495764294440"
+    token="-1457762055313470202"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="442" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="205" />
+        duration="178" />
     <task
         name="verifier"
-        duration="27" />
+        duration="38" />
 
     <artifact
-        location="/Users/haoqwu/Desktop/WaterReader/Application/build/outputs/apk/Application-debug.apk"
-        type="MAIN" />
+        location="/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/html24/ITU/App/WaterReader1/Application/build/outputs/apk/Application-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
-        timestamp="852512037494844"
+        build-mode="FULL"
+        timestamp="1495764294440"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/haoqwu/Desktop/WaterReader/Application/build/outputs/apk/Application-debug.apk"
-            type="MAIN" />
+            location="/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/html24/ITU/App/WaterReader1/Application/build/outputs/apk/Application-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

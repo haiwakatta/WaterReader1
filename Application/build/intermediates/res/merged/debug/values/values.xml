@@ -356,7 +356,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="app_name">BluetoothLeGatt</string>
+    <string name="app_name">Plenty</string>
     <string name="ble_not_supported">BLE is not supported</string>
     <string name="connected">Connected</string>
     <string name="disconnected">Disconnected</string>

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/haoqwu/Desktop/WaterReader/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+        "outputFile": "/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "/Users/haoqwu/Desktop/WaterReader/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "file": "/Users/html24/.android/build-cache/f848552743f7fab40b80b3c630774792cc54e0bd/output/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

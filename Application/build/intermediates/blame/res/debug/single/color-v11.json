@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/haoqwu/Desktop/WaterReader/Application/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/Users/haoqwu/Desktop/WaterReader/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+        "merged": "/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/html24/.android/build-cache/f848552743f7fab40b80b3c630774792cc54e0bd/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "/Users/haoqwu/Desktop/WaterReader/Application/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/Users/haoqwu/Desktop/WaterReader/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/html24/.android/build-cache/f848552743f7fab40b80b3c630774792cc54e0bd/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     }
 ]

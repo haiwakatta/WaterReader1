@@ -1,7 +1,7 @@
-#Thu May 25 14:58:51 BST 2017
-base.0=/Users/haoqwu/Desktop/WaterReader/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_be4b01b040ce209f5dade1172f1e0e4a8b2704e6
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/haoqwu/Desktop/WaterReader/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e12e9a36a90aee73a64a0ce6b015935c71cdb9cf/classes.dex
-base.1=/Users/haoqwu/Desktop/WaterReader/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e12e9a36a90aee73a64a0ce6b015935c71cdb9cf
-file.0=/Users/haoqwu/Desktop/WaterReader/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_be4b01b040ce209f5dade1172f1e0e4a8b2704e6/classes.dex
+#Fri May 26 04:05:02 CEST 2017
+base.0=/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_08bc097af30e6c10381bd53b2010271f865a56b6
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e39b323b1cd36d2c46c6b18b5a66b4353b5fa013/classes.dex
+base.1=/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e39b323b1cd36d2c46c6b18b5a66b4353b5fa013
+file.0=/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_08bc097af30e6c10381bd53b2010271f865a56b6/classes.dex

@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:weightSum="1">
 
-    <Button
+    <ImageView
+        android:id="@+id/imageView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Write Char"
-        android:id="@+id/button2"
-        android:onClick="onClickWrite" />
-
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Read Char"
-        android:id="@+id/button"
-        android:onClick="onClickRead" />
+        android:layout_weight="0.87"
+        app:srcCompat="@drawable/ic_launcher" />
 
     <TextView
-        android:layout_width="wrap_content"
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/no_data"
-        android:id="@+id/data_value" />
+        android:layout_weight="0.08"
+        android:fontFamily="sans-serif"
+        android:gravity="center_vertical|center"
+        android:text="Check the water"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@android:color/holo_green_dark"
+        android:textColorHint="@color/cardview_dark_background"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
 </LinearLayout>
