@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/Users/html24/ITU/App/WaterReader1/Application/src/main/res/menu/main.xml"
+        "merged": "/Users/haoqwu/Desktop/WaterReader1/Application/build/intermediates/res/merged/debug/menu/gatt_services.xml",
+        "source": "/Users/haoqwu/Desktop/WaterReader1/Application/src/main/res/menu/gatt_services.xml"
     },
     {
-        "merged": "/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/res/merged/debug/menu/gatt_services.xml",
-        "source": "/Users/html24/ITU/App/WaterReader1/Application/src/main/res/menu/gatt_services.xml"
+        "merged": "/Users/haoqwu/Desktop/WaterReader1/Application/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/haoqwu/Desktop/WaterReader1/Application/src/main/res/menu/main.xml"
     }
 ]
