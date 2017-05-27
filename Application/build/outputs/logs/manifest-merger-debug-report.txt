@@ -1,103 +1,117 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:20:1-52:12
+ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:3:1-32:12
 	package
-		ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:21:5-50
+		ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:4:5-41
 	android:versionName
-		ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:23:5-30
-		INJECTED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml
-		INJECTED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:6:5-30
+		INJECTED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml
 	android:versionCode
-		ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:22:5-28
-		INJECTED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml
-		INJECTED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:5:5-28
+		INJECTED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:20:11-69
+		ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:3:11-69
 uses-feature#android.hardware.bluetooth_le
-ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:31:5-89
+ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:8:5-89
 	android:required
-		ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:31:64-87
+		ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:8:64-87
 	android:name
-		ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:31:19-63
+		ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:8:19-63
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:32:5-79
+ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:9:5-79
 	android:name
-		ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:32:22-76
-uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:33:5-81
+		ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:9:22-76
+uses-feature#android.hardware.location.gps
+ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:10:5-66
 	android:name
-		ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:33:22-78
+		ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:10:19-63
+uses-feature#android.hardware.location.network
+ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:11:5-70
+	android:name
+		ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:11:19-67
 uses-permission#android.permission.BLUETOOTH
-ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:34:5-67
+ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:12:5-67
 	android:name
-		ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:34:22-65
+		ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:12:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:35:5-73
+ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:13:5-73
 	android:name
-		ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:35:22-71
+		ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:13:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:14:22-78
+uses-feature#android.hardware.camera
+ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:15:5-84
+	android:required
+		ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:15:58-81
+	android:name
+		ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:15:19-57
 application
-ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:37:5-49:19
-MERGED from [com.android.support:support-v13:25.0.1] /Users/haoqwu/.android/build-cache/0cc2675d40d3f2aeae6666f20075d540ff299ef5/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:cardview-v7:25.0.1] /Users/haoqwu/.android/build-cache/37849fdd4de3e32fa98cc926bc0a1fd91f8c5f62/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:25.0.1] /Users/haoqwu/.android/build-cache/5b1fbe1a7485f92d91b0470da538e539e2456dd4/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.0.1] /Users/haoqwu/.android/build-cache/21717496988ea6d349269b465fbbd864a5b31d37/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.0.1] /Users/haoqwu/.android/build-cache/fadfa0a70724288d7981e9ff363c82b0767d1fcb/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.0.1] /Users/haoqwu/.android/build-cache/2740920e78affb0c85c71cd420a424aa64778b34/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.0.1] /Users/haoqwu/.android/build-cache/a42b5b6b4f448a0f002ad87e2afe55e2625580b4/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.0.1] /Users/haoqwu/.android/build-cache/ea360fdec0b31d5ac7c2beaa67779b5827f8aa25/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/haoqwu/.android/build-cache/ad79b9791f49b20a78a436b0b7c94ab55601cd29/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/haoqwu/.android/build-cache/b838b29955a28f26afd0e9bd3ec1c3971203c2eb/output/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-compat:25.0.1] /Users/haoqwu/.android/build-cache/4802f79a212f8d55b81282643fdfe5a6f0d2abba/output/AndroidManifest.xml:25:5-20
+ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:17:5-29:19
+MERGED from [com.android.support:support-v13:25.0.1] /Users/html24/.android/build-cache/fd726166e053de4024b62bfedf3aedcbd75158e3/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] /Users/html24/.android/build-cache/df15937710d235488b8bf85471bbc90360f1794f/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] /Users/html24/.android/build-cache/f848552743f7fab40b80b3c630774792cc54e0bd/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] /Users/html24/.android/build-cache/bf3348110b79359b1a224dc970c876a56b4bbd4a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] /Users/html24/.android/build-cache/f562f553e00c9d0f92592b2203ec6a620f4e3db0/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] /Users/html24/.android/build-cache/366a216da607d757a2be2a3ccf596ce445bc4faa/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] /Users/html24/.android/build-cache/5c7a6bf62c97d88a6cf067174ee2b6ff53c29a67/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] /Users/html24/.android/build-cache/9e36b9cc61408a665f1d9b74e165b0aac46cb1c3/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/html24/.android/build-cache/d3897759a77aafcb903b0df4a92d6658017454a0/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/html24/.android/build-cache/da7ce427be31d6907ae73370ae052f47509c6132/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.1] /Users/html24/.android/build-cache/41a7fd423b6b165cc34bb0239a75840288804044/output/AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:37:18-50
+		ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:17:18-50
 	android:icon
-		ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:38:9-43
+		ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:18:9-43
 	android:theme
-		ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:39:9-56
-activity#com.example.android.bluetoothlegatt.DeviceScanActivity
-ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:40:9-46:20
+		ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:19:9-56
+activity#com.example.android.plenty.DeviceScanActivity
+ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:20:9-26:20
 	android:label
-		ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:41:13-45
+		ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:21:13-45
 	android:name
-		ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:40:19-53
+		ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:20:19-79
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:42:13-45:29
+ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:22:13-25:29
 action#android.intent.action.MAIN
-ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:43:17-68
+ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:23:17-68
 	android:name
-		ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:43:25-66
+		ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:44:17-76
+ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:24:17-76
 	android:name
-		ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:44:27-74
-activity#com.example.android.bluetoothlegatt.DeviceControlActivity
-ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:47:9-58
+		ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:24:27-74
+activity#com.example.android.plenty.DeviceControlActivity
+ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:27:9-84
 	android:name
-		ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:47:19-56
-service#com.example.android.bluetoothlegatt.BluetoothLeService
-ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:48:9-77
+		ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:27:19-82
+service#com.example.android.plenty.BluetoothLeService
+ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:28:9-103
 	android:enabled
-		ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:48:53-75
+		ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:28:79-101
 	android:name
-		ADDED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml:48:18-52
+		ADDED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml:28:18-78
 uses-sdk
-INJECTED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:support-v13:25.0.1] /Users/haoqwu/.android/build-cache/0cc2675d40d3f2aeae6666f20075d540ff299ef5/output/AndroidManifest.xml:21:5-23:55
-MERGED from [com.android.support:cardview-v7:25.0.1] /Users/haoqwu/.android/build-cache/37849fdd4de3e32fa98cc926bc0a1fd91f8c5f62/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:25.0.1] /Users/haoqwu/.android/build-cache/5b1fbe1a7485f92d91b0470da538e539e2456dd4/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.0.1] /Users/haoqwu/.android/build-cache/21717496988ea6d349269b465fbbd864a5b31d37/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.0.1] /Users/haoqwu/.android/build-cache/fadfa0a70724288d7981e9ff363c82b0767d1fcb/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.0.1] /Users/haoqwu/.android/build-cache/2740920e78affb0c85c71cd420a424aa64778b34/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.0.1] /Users/haoqwu/.android/build-cache/a42b5b6b4f448a0f002ad87e2afe55e2625580b4/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.0.1] /Users/haoqwu/.android/build-cache/ea360fdec0b31d5ac7c2beaa67779b5827f8aa25/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/haoqwu/.android/build-cache/ad79b9791f49b20a78a436b0b7c94ab55601cd29/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/haoqwu/.android/build-cache/b838b29955a28f26afd0e9bd3ec1c3971203c2eb/output/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-compat:25.0.1] /Users/haoqwu/.android/build-cache/4802f79a212f8d55b81282643fdfe5a6f0d2abba/output/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.0.1] /Users/html24/.android/build-cache/fd726166e053de4024b62bfedf3aedcbd75158e3/output/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.0.1] /Users/html24/.android/build-cache/df15937710d235488b8bf85471bbc90360f1794f/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.0.1] /Users/html24/.android/build-cache/f848552743f7fab40b80b3c630774792cc54e0bd/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.1] /Users/html24/.android/build-cache/bf3348110b79359b1a224dc970c876a56b4bbd4a/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] /Users/html24/.android/build-cache/f562f553e00c9d0f92592b2203ec6a620f4e3db0/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] /Users/html24/.android/build-cache/366a216da607d757a2be2a3ccf596ce445bc4faa/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] /Users/html24/.android/build-cache/5c7a6bf62c97d88a6cf067174ee2b6ff53c29a67/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] /Users/html24/.android/build-cache/9e36b9cc61408a665f1d9b74e165b0aac46cb1c3/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/html24/.android/build-cache/d3897759a77aafcb903b0df4a92d6658017454a0/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/html24/.android/build-cache/da7ce427be31d6907ae73370ae052f47509c6132/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.1] /Users/html24/.android/build-cache/41a7fd423b6b165cc34bb0239a75840288804044/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v13:25.0.1] /Users/haoqwu/.android/build-cache/0cc2675d40d3f2aeae6666f20075d540ff299ef5/output/AndroidManifest.xml:23:9-52
+		ADDED from [com.android.support:support-v13:25.0.1] /Users/html24/.android/build-cache/fd726166e053de4024b62bfedf3aedcbd75158e3/output/AndroidManifest.xml:23:9-52
 	android:targetSdkVersion
-		INJECTED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml
-		INJECTED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml
-		INJECTED from /Users/haoqwu/Desktop/WaterReader1/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/html24/ITU/App/WaterReader1/Application/src/main/AndroidManifest.xml

@@ -3,183 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/haoqwu/.android/build-cache/fadfa0a70724288d7981e9ff363c82b0767d1fcb/output/jars/libs/internal_impl-25.0.1.jar"
+        jar="/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="/Users/haoqwu/Desktop/WaterReader1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_f2b6b1647d6b6f75a10cb84c6ec6f66c3e8cfca5/classes.dex" />
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e39b323b1cd36d2c46c6b18b5a66b4353b5fa013/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/haoqwu/.android/build-cache/21717496988ea6d349269b465fbbd864a5b31d37/output/jars/classes.jar"
+        jar="/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/haoqwu/Desktop/WaterReader1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_acc3ec42356865d8664b4799143521fce5747084/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/haoqwu/.android/build-cache/ea360fdec0b31d5ac7c2beaa67779b5827f8aa25/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="/Users/haoqwu/Desktop/WaterReader1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e3045d9ec3e2d36fd4cb409feab409d0046eb457/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/haoqwu/.android/build-cache/2740920e78affb0c85c71cd420a424aa64778b34/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="/Users/haoqwu/Desktop/WaterReader1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5f397285d0cf91fb9feb5543e18c119d18473d3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/haoqwu/.android/build-cache/b838b29955a28f26afd0e9bd3ec1c3971203c2eb/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="/Users/haoqwu/Desktop/WaterReader1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_87c6b83eacf2fdfbeff9c6bf5e7593df1491422c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/haoqwu/.android/build-cache/0cc2675d40d3f2aeae6666f20075d540ff299ef5/output/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
-        <dex dex="/Users/haoqwu/Desktop/WaterReader1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_ee489b329ff9096bcf65a435870c8963ddb0bb7f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/haoqwu/.android/build-cache/ea360fdec0b31d5ac7c2beaa67779b5827f8aa25/output/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="/Users/haoqwu/Desktop/WaterReader1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_1d25e1f93f1489b403c4d0e05218b69b5e0c67ab/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/haoqwu/.android/build-cache/4802f79a212f8d55b81282643fdfe5a6f0d2abba/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/Users/haoqwu/Desktop/WaterReader1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe102ab2b550a5aa3697c590f1e65708e747e9b5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/haoqwu/.android/build-cache/5b1fbe1a7485f92d91b0470da538e539e2456dd4/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="/Users/haoqwu/Desktop/WaterReader1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1980d6e7aa9dbfd78e04a86d455b62176a0af1f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/haoqwu/.android/build-cache/ad79b9791f49b20a78a436b0b7c94ab55601cd29/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="/Users/haoqwu/Desktop/WaterReader1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0fc1622a6a743a2bccf211a1a707d474da5d24b7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/haoqwu/.android/build-cache/a42b5b6b4f448a0f002ad87e2afe55e2625580b4/output/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/Users/haoqwu/Desktop/WaterReader1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d8bfc6c94463f8d6d677e73a45648c69e69a880c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/haoqwu/.android/build-cache/a42b5b6b4f448a0f002ad87e2afe55e2625580b4/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="/Users/haoqwu/Desktop/WaterReader1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6464e1ed06c2a4c1c17fa96f452ba590b3721644/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/haoqwu/Desktop/WaterReader1/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
-        <dex dex="/Users/haoqwu/Desktop/WaterReader1/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cac47f638f6803d66b0e9fe07dc2ed3f8868949c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/haoqwu/.android/build-cache/4802f79a212f8d55b81282643fdfe5a6f0d2abba/output/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/Users/haoqwu/Desktop/WaterReader1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_e56c5b0e471a49dea5789f9d709b43d79875c9ec/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/haoqwu/.android/build-cache/37849fdd4de3e32fa98cc926bc0a1fd91f8c5f62/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
-        <dex dex="/Users/haoqwu/Desktop/WaterReader1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8a8c8523cfb06d3e1d4b457f0d7326d2d86adcb8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/haoqwu/.android/build-cache/0cc2675d40d3f2aeae6666f20075d540ff299ef5/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
-        <dex dex="/Users/haoqwu/Desktop/WaterReader1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_17a68cf53e3ac7581b3f54fbb752085093306cb9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/haoqwu/.android/build-cache/fadfa0a70724288d7981e9ff363c82b0767d1fcb/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="/Users/haoqwu/Desktop/WaterReader1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e6782c46a0563877e798d12bb773bfe21529732b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/haoqwu/Desktop/WaterReader1/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="b0b640de6326503027de2be9202f30f6383b1f43">
-        <dex dex="/Users/haoqwu/Desktop/WaterReader1/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5508df4148c5b4a86a09428a0b78fd989e389066/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/haoqwu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="/Users/haoqwu/Desktop/WaterReader1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_2109b54fcd03c3677dc5b37a9a39b0d7cae3b196/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/haoqwu/.android/build-cache/2740920e78affb0c85c71cd420a424aa64778b34/output/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="/Users/haoqwu/Desktop/WaterReader1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_58cab4aec42fe427f8c6746f38c8b732a6eedfe3/classes.dex" />
+        sha1="435a2d31c7a28c0b1bb693951cd849ea8d75025c">
+        <dex dex="/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_08bc097af30e6c10381bd53b2010271f865a56b6/classes.dex" />
     </item>
 
 </items>

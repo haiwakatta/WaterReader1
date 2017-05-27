@@ -1,10 +1,6 @@
 [
     {
-        "merged": "/Users/haoqwu/Desktop/WaterReader1/Application/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
-        "source": "/Users/haoqwu/Desktop/WaterReader1/Application/src/main/res/drawable-hdpi/tile.9.png"
-    },
-    {
-        "merged": "/Users/haoqwu/Desktop/WaterReader1/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
-        "source": "/Users/haoqwu/Desktop/WaterReader1/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+        "merged": "/Users/html24/ITU/App/WaterReader1/Application/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/Users/html24/ITU/App/WaterReader1/Application/src/main/res/drawable-hdpi/tile.9.png"
     }
 ]
